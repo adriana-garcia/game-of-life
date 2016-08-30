@@ -8,12 +8,12 @@
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
-            color: blue;
+            color: red;
             font-family: sans-serif;
         }
 
         .intro {
-            font-family: sans-serif;
+            font-family: arial;
             background: rgb(200, 200, 200);
             border: 1pt rgb(150, 150, 150) solid;
             padding: 8px;
@@ -26,7 +26,7 @@
             color: white;
             font-size: medium;
             text-align: right;
-            background-color: blue;
+            background-color: white;
             margin-top: 100px;
             border-top: thin solid black;
             padding: 2px;
@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Conway's Game Of Life!</h2>
+<h2>Welcome to Conway's Game Of Life * Adriana *!</h2>
 
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
